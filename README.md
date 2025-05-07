@@ -19,8 +19,6 @@ This repository includes:
 │  └── Equatorial Data/
 |  └── Low-Altitude Data/
 |  └── Figure 1 Data/
-└── Figures/ # Figures for the paper
-│  └── .png
 └── README.md # This file
 ``` 
 
