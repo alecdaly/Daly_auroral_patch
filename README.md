@@ -16,7 +16,9 @@ This repository includes:
 │  └── low_altitude_code.ipynb # Code to produce all figures related to low altitude observations (Figures 2 & 3)
 │  └── Equatorial_code.ipynb # Code to produce all figures related to equatorial observations (Figures 4, 5, & 6)
 └── data/ # Data files used in the study 
-│  └── ...
+│  └── Equatorial Data/
+|  └── Low-Altitude Data/
+|  └── Figure 1 Data/
 └── figures/ # Figures for the paper
 │  └── .png
 └── README.md # This file
