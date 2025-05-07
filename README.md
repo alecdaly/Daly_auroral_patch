@@ -23,4 +23,4 @@ This repository includes:
 ``` 
 
 ## Analysis 
-An interactive notebook is provided to reproduce the figures from the paper. First install [Jupyter notebook] (https://jupyter.org/) and then launch the notebooks in the directory (Figure 1.ipynb, low_altitude_code.ipynb, Equatorial_code.ipynb) after downloading the suitable data
+An interactive notebook is provided to reproduce the figures from the paper. First install [Jupyter notebook](https://jupyter.org/) and then launch the notebooks in the directory (Figure 1.ipynb, low_altitude_code.ipynb, Equatorial_code.ipynb) after downloading the suitable data
