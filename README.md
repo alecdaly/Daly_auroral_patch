@@ -9,14 +9,18 @@ This repository includes:
 - **Data Files**: Input data used for the study
 - **Figures**: Output Figures
 
-## Directory Structure
-├── notebooks/ # All Jupyter notebooks used in the analysis
-│ ├── 01_data_processing.ipynb
-│ ├── 02_wave_analysis.ipynb
-│ ├── 03_particle_analysis.ipynb
-├── data/
-│ ├── 
-│ ├── 
-├── figures/ Output plots or visuals for the paper
-│ └── .png
+## Directory Structure 
+```
+└── notebooks/ # All Jupyter notebooks used in the analysis
+│  └── Figure 1.ipynb # Code to produce figure 1
+│  └── low_altitude_code.ipynb # Code to produce all figures related to low altitude observations (Figures 2 & 3)
+│  └── Equatorial_code.ipynb # Code to produce all figures related to equatorial observations (Figures 4, 5, & 6)
+└── data/ # Data files used in the study 
+│  └── ...
+└── figures/ # Figures for the paper
+│  └── .png
 └── README.md # This file
+``` 
+
+## Analysis 
+An interactive notebook is provided to reproduce the figures from the paper. First install [Jupyter notebook] (https://jupyter.org/) and then launch the notebooks in the directory (Figure 1.ipynb, low_altitude_code.ipynb, Equatorial_code.ipynb) after downloading the suitable data
