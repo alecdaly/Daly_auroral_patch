@@ -32,5 +32,5 @@ These codes require the following Python libraries to be installed:
 - scipy
 - pyspedas
 
-Users can install using pip:
-pip install [insert library]
+Users can install using pip
+```pip install [insert library]```
