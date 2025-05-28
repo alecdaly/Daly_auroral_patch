@@ -7,7 +7,6 @@ This repository includes:
 
 - **Jupyter Notebooks**: Code for data processing, analysis, and figure generation  
 - **Data Files**: Input data used for the study
-- **Figures**: Output Figures
 
 ## Directory Structure 
 ```
