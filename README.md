@@ -13,7 +13,7 @@ This repository includes:
 └── Jupyter Notebooks/ # All Jupyter notebooks used in the analysis
 │  └── Figure 1.ipynb # Code to produce figure 1
 │  └── low_altitude_code.ipynb # Code to produce all figures related to low altitude observations (Figures 2 & 3)
-│  └── Equatorial_code.ipynb # Code to produce all figures related to equatorial observations (Figures 4, 5, & 6)
+│  └── Equatorial_code_final.ipynb # Code to produce all figures related to equatorial observations (Figures 4, 5, & 6)
 └── Data/ # Data files used in the study 
 │  └── Equatorial Data/
 |  └── Low-Altitude Data/
