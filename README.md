@@ -1,6 +1,6 @@
 # The Origins of Jupiter's Patchy Aurora
 Code and Data used in submitted paper to Nature Communications
-
+[![DOI](https://zenodo.org/badge/979463105.svg)](https://doi.org/10.5281/zenodo.18614119)
 ## Repository Overview
 
 This repository includes:
